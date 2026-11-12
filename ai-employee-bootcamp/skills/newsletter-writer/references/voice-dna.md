@@ -120,7 +120,7 @@ If this file conflicts with an older document, a skill file or a plugin template
 - Never send, post or publish anything automatically.
 - Emails to other people are created as Gmail drafts only.
 - Posts are saved as drafts in the Notion Content Calendar. Ina publishes them herself.
-- The daily briefing to Ina's own inbox is the only automated email.
+- This includes the daily briefing: it is saved as a Gmail draft addressed to Ina and as a Notion page, never sent.
 
 ---
 
